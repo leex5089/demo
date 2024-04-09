@@ -6,7 +6,7 @@ navbar_entries:
     url: blog
 
   - title: website
-    url: https://www.abhinav.co
+    url: https://credo.stanford.edu/
 
 project_entries:
   - title: School Trends Project
@@ -37,16 +37,16 @@ project_entries:
 
 old_project_entries:
   - title: Soopr
-    url: https://www.soopr.co
+    url: https://credo.stanford.edu/
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
 
   - title: Cookie
-    url: https://github.com/abhinavs/cookie
+    url: https://credo.stanford.edu/
     desc: An open source landing website with supporting pages and integrated blog
 
   - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
+    url: https://credo.stanford.edu/
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
   - title: Humangous
@@ -54,14 +54,14 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: CREDO homepage
+    url: https://credo.stanford.edu/
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://credo.stanford.edu/
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://credo.stanford.edu/
 
   - title: feed
     url: feed.xml
@@ -84,10 +84,10 @@ misc_entries:
     url: false
     entries:
       - title: on Github
-        url: https://github.com/abhinavs/moonwalk
+        url: https://credo.stanford.edu/
 
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
+      - title: originally built  
+        url: https://credo.stanford.edu/
 
       - title: this list is scalable and can be nested
         url: false
